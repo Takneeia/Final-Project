@@ -843,8 +843,8 @@ a {
 
 .bar__blob--2 {
     position: absolute;
-    height: 300px;
-    transform: translateY(-75%) translateX(300%);
+    height: 250px;
+    transform: translateY(-75%) translateX(380%);
     z-index: 0;
 }
 
@@ -901,14 +901,12 @@ a {
 
 .footer__container {
     width: 100%;
-    max-width: 1200px;
     margin-bottom: -32px;
     height: 500px;
 }
 
 .footer__row {
     width: 100%;
-    max-width: 1200px;
     height: 500px;
     background-color: rgb(100, 21, 255);
     position: relative;
@@ -932,7 +930,6 @@ a {
 
 .footer__list {
     width: 100%;
-    max-width: 1200px;
     height: 300px;
     display: flex;
     border: 2px solid;
@@ -960,7 +957,6 @@ a {
 
 .footer__wrapper {
     width:  100%;
-    max-width: 1200px;
     display: flex;
 }
 
@@ -976,7 +972,6 @@ a {
 
 .footer__wrapper {   
     width:100%;
-    max-width: 1200px;
     height: 200px;
     display: flex;
     align-items: flex-end;
